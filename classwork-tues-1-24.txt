@@ -1,0 +1,3 @@
+Classwork Tuesday 1/24
+
+1. number of lines in Orchidacea cep-taxa.txt = 6
