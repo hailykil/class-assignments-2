@@ -1,3 +1,10 @@
 Classwork Tuesday 1/24
 
 1. number of lines in Orchidacea cep-taxa.txt = 6
+2. path to all of your classwork files: find ../../../../../Desktop/ -iname "*classwork*"
+
+appended
+../../../../../Desktop/eeb-177/class-assignments/classwork-tues-1-24.txt
+../../../../../Desktop/eeb-177/class-assignments/classwork-Thursday-1-19.txt
+
+
