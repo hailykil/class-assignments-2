@@ -1,0 +1,200 @@
+ 1222  jupyter notebook https://eeb177-217.github.io//weekly_content/week3/exercise-3.ipynb
+ 1223  cd Desktop
+ 1224  cd eeb0177
+ 1225  cd eeb-177/
+ 1226  ls
+ 1227  cd lab-work/
+ 1228  ls
+ 1229  mkdir exercise-3
+ 1230  ls
+ 1231  cd exercise-3
+ 1232  ls
+ 1233  jupyter notebook
+ 1234  cd Desktop/eeb-177/lab-work/exercise-3/
+ 1235  ls
+ 1236  cd ../
+ 1237  ls
+ 1238  cd class-assignments/
+ 1239  ls
+ 1240  touch classwork-Thursday-1-26.txt
+ 1241  git add classwork-Thursday-1-26.txt 
+ 1242  git commit -m "classwork for thursday 1-26"
+ 1243  git push -u origin master
+ 1244  ls -l
+ 1245  touch permissions.txt
+ 1246  ls -l
+ 1247  chmod u=rwx
+ 1248  chmod u=rwx permissions.txt
+ 1249  ls -l
+ 1250  gedit #! /bin/bash
+ 1251  gedit
+ 1252  ls -l
+ 1253  dir.sh
+ 1254  /user/bin
+ 1255  /usr/bin
+ 1256  /bin
+ 1257  cd /bin
+ 1258  cd ls /bin
+ 1259  ~
+ 1260  cd ~
+ 1261  cd Desktop/eeb-177/class-assignments/
+ 1262  ls
+ 1263  $PATH
+ 1264  ~
+ 1265  cd
+ 1266  mkdir scripts
+ 1267  ls
+ 1268  cd scripts/
+ 1269  ls
+ 1270  mv ~Desktop/eeb-177/class-assignments
+ 1271  mv ~Desktop/eeb-177/class-assignments/dir.sh
+ 1272  mv ~Desktop/eeb-177/class-assignments.
+ 1273  mv ~Desktop/eeb-177/class-assignments/
+ 1274  ls
+ 1275  mv ~/Desktop/eeb-177/class-assignments
+ 1276  mv ~/Desktop/eeb-177/class-assignments/
+ 1277  mv. ~/Desktop/eeb-177/class-assignments/
+ 1278  mv ~/Desktop/eeb-177/class-assignments/dir.sh .
+ 1279  ls
+ 1280  gedit .bash_profile
+ 1281  $PATH
+ 1282  ls
+ 1283  cd~
+ 1284  cd ~
+ 1285  ls -a
+ 1286  ls -l
+ 1287  chmod u+x dir.sh
+ 1288  gedit dir.sh
+ 1289  ls -l
+ 1290  cd Desktop
+ 1291  ls
+ 1292  ./dir.sh
+ 1293  ls
+ 1294  ~
+ 1295  cd ~
+ 1296  ls
+ 1297  cd scripts/
+ 1298  ls
+ 1299  gedit dir.sh 
+ 1300  ls
+ 1301  ls -a
+ 1302  gedit .bash_profile
+ 1303  cd
+ 1304  ls
+ 1305  ls -a
+ 1306  gedit .profile
+ 1307  ls -a
+ 1308  sudo reboot
+ 1309  $PATH
+ 1310  cd Desktop
+ 1311  dir.sh
+ 1312  cd ~/scripts/
+ 1313  ls -l
+ 1314  gedit dir.sh
+ 1315  ls -l
+ 1316  chmod u+x dir.sh
+ 1317  ls -l
+ 1318  dir.sh
+ 1319  gedit in_class_script.hs
+ 1320  ls -l
+ 1321  mv in_class_script.hs in_class_script.sh
+ 1322  chmod u+x in_class_script.sh
+ 1323  cd ~Desktop/eeb-177/lab-work
+ 1324  cd ~/Desktop/eeb-177/lab-work/
+ 1325  cd exercise-3
+ 1326  ls
+ 1327  git add Exercise-3-hw.ipynb
+ 1328  git status
+ 1329  cd ~
+ 1330  ls
+ 1331  cd scripts/
+ 1332  s
+ 1333  ls
+ 1334  gedit in_class_script.sh 
+ 1335  git init
+ 1336  ls
+ 1337  git add dir.sh in_class_script.sh 
+ 1338  git commit -m "scripts"
+ 1339  git remote add origin https://github.com/hailykil/Scripts/git
+ 1340  git push -u origin master
+ 1341  git add dir.sh in_class_script.sh 
+ 1342  git commit -m "adding script practice during class"
+ 1343  git init
+ 1344  git add dir.sh 
+ 1345  git remote add origin https://github.com/hailykil/Scripts.git
+ 1346  git push -u origin master
+ 1347  ls
+ 1348  git status
+ 1349  git add dir.sh in_class_script.sh 
+ 1350  git commit -m "adding scripts"
+ 1351  git branch
+ 1352  git branch -v
+ 1353  git status
+ 1354  git add .bash_profile
+ 1355  git commit -m "something"
+ 1356  git remote add origin https://github.com/hailykil/Scripts.git
+ 1357  git push -u origin master
+ 1358  ls
+ 1359  git init
+ 1360  git add dir.sh 
+ 1361  git commit -m "dir.sh"
+ 1362  git push -u origin master
+ 1363  git remote add origin https://github.com/hailykil/scripts.git
+ 1364  cd ../
+ 1365  ls
+ 1366  git init
+ 1367  cd scripts/
+ 1368  ls
+ 1369  git init
+ 1370  echo "# scripts" >> README.md
+ 1371  git init
+ 1372  git add README.md
+ 1373  git commit -m "first commit"
+ 1374  git remote add origin https://github.com/hailykil/scripts.git
+ 1375  git push -u origin master
+ 1376  ls
+ 1377  rm -rf README.md
+ 1378  ls
+ 1379  git add dir.sh in_class_script.sh 
+ 1380  git commit -m "adding scripts"
+ 1381  git push -u origin master
+ 1382  cd ~
+ 1383  ls
+ 1384  mkdir script
+ 1385  ls
+ 1386  cd scripts
+ 1387  ls
+ 1388  mv dir.sh ~/script
+ 1389  mv in_class_script.sh ~/script
+ 1390  ls
+ 1391  cd ../
+ 1392  ls
+ 1393  cd script
+ 1394  ls
+ 1395  git init
+ 1396  git add dir.sh in_class_script.sh
+ 1397  git commit -m "adding scripts"
+ 1398  git remote add origin https://github.com/hailykil/scripts.git
+ 1399  git push -u origin master
+ 1400  cd ~
+ 1401  ls
+ 1402  rm -rf scripts
+ 1403  ls
+ 1404  history
+ 1405  cd Desktop/eeb-177/
+ 1406  ls
+ 1407  cd class-assignments/
+ 1408  ls
+ 1409  cd ~
+ 1410  ls
+ 1411  history >> classwork-Thursday-1-26.txt
+ 1412  cd Desktop/
+ 1413  cd eeb-177/class-assignments/
+ 1414  ls
+ 1415  gedit classwork-Thursday-1-26.txt 
+ 1416  ls
+ 1417  history > classwork-Thursday-1-26.txt
+ 1418  gedit classwork-Thursday-1-26.txt 
+ 1419  gedit classwork-Thursday-1-2
+ 1420  gedit classwork-Thursday-1-26.txt 
+ 1421  history 200 > classwork-Thursday-1-26.txt
